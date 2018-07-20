@@ -1,0 +1,22 @@
+@font-face {
+font-family: 'A Font with Serifs';
+font-style: normal;
+font-weight: normal;
+src: local('A Font with Serifs'), url('A_Font_with_Serifs.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'A Font with Serifs. Disordered';
+font-style: normal;
+font-weight: normal;
+src: local('A Font with Serifs. Disordered'), url('A_Font_with_Serifs._Disordered.woff') format('woff');
+}
+
+h1 {
+  font-family: 'A Font with Serifs';
+  font-weight: bold;
+  font-size: 75px;
+  color: #0c0636;
+  margin-bottom: 10px;
+}

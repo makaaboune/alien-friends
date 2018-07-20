@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  overflow-y: hidden;
+  background: #136a8a;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #267871, #136a8a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #267871, #136a8a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.search {
+  padding: 10px 5px;
+  border-radius: 9px;
+  border: 1px solid #0c0636;
+  width: 338px;
+}
+
+.card {
+  background-color: #184b5d;
+  border-radius: 20px;
+}
+
+h2 {color: #b9b3a8;
+  font-family: 'A Font with Serifs';
+  font-weight: bold;
+}

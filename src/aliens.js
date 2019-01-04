@@ -1,3 +1,5 @@
+// You can use aliens Object instead of jsonplaceholder API !
+
 export const aliens = [
   {
     id: 1,
